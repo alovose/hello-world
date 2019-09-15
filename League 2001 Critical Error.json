@@ -1,0 +1,5311 @@
+﻿{
+  "startingSeason": 2001,
+  "version": 32,
+  "meta": {
+    "phaseText": "2001 preseason",
+    "name": "League 1"
+  },
+  "negotiations": [],
+  "draftLotteryResults": [],
+  "messages": [],
+  "events": [],
+  "playerFeats": [],
+  "trade": [
+    {
+      "rid": 0,
+      "teams": [
+        {
+          "tid": 15,
+          "pids": [],
+          "dpids": []
+        },
+        {
+          "tid": 0,
+          "pids": [],
+          "dpids": []
+        }
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 0,
+      "did": 2,
+      "region": "Atlanta",
+      "name": "Gold Club",
+      "abbrev": "ATL",
+      "imgURL": "/img/logos/ATL.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 0,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.21219985055673418,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 0
+        }
+      ],
+      "stats": [
+        {
+          "tid": 0,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 0
+        }
+      ]
+    },
+    {
+      "tid": 1,
+      "cid": 0,
+      "did": 2,
+      "region": "Baltimore",
+      "name": "Crabs",
+      "abbrev": "BAL",
+      "imgURL": "/img/logos/BAL.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 1,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.06427331455194718,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 1
+        }
+      ],
+      "stats": [
+        {
+          "tid": 1,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 1
+        }
+      ]
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 0,
+      "region": "Boston",
+      "name": "Massacre",
+      "abbrev": "BOS",
+      "imgURL": "/img/logos/BOS.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 2,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.0422711003585019,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 2
+        }
+      ],
+      "stats": [
+        {
+          "tid": 2,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 2
+        }
+      ]
+    },
+    {
+      "tid": 3,
+      "cid": 0,
+      "did": 1,
+      "region": "Chicago",
+      "name": "Whirlwinds",
+      "abbrev": "CHI",
+      "imgURL": "/img/logos/CHI.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 3,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.03867805730915075,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 3
+        }
+      ],
+      "stats": [
+        {
+          "tid": 3,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 3
+        }
+      ]
+    },
+    {
+      "tid": 4,
+      "cid": 0,
+      "did": 1,
+      "region": "Cincinnati",
+      "name": "Riots",
+      "abbrev": "CIN",
+      "imgURL": "/img/logos/CIN.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 4,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8712611632024856,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 4
+        }
+      ],
+      "stats": [
+        {
+          "tid": 4,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 4
+        }
+      ]
+    },
+    {
+      "tid": 5,
+      "cid": 0,
+      "did": 1,
+      "region": "Cleveland",
+      "name": "Curses",
+      "abbrev": "CLE",
+      "imgURL": "/img/logos/CLE.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 5,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.5551193688706921,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 5
+        }
+      ],
+      "stats": [
+        {
+          "tid": 5,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 5
+        }
+      ]
+    },
+    {
+      "tid": 6,
+      "cid": 1,
+      "did": 3,
+      "region": "Dallas",
+      "name": "Snipers",
+      "abbrev": "DAL",
+      "imgURL": "/img/logos/DAL.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 6,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8906943462670525,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 6
+        }
+      ],
+      "stats": [
+        {
+          "tid": 6,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 6
+        }
+      ]
+    },
+    {
+      "tid": 7,
+      "cid": 1,
+      "did": 4,
+      "region": "Denver",
+      "name": "High",
+      "abbrev": "DEN",
+      "imgURL": "/img/logos/DEN.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 7,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.045611090601029636,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 7
+        }
+      ],
+      "stats": [
+        {
+          "tid": 7,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 7
+        }
+      ]
+    },
+    {
+      "tid": 8,
+      "cid": 0,
+      "did": 1,
+      "region": "Detroit",
+      "name": "Muscle",
+      "abbrev": "DET",
+      "imgURL": "/img/logos/DET.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 8,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.7430363237617157,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 8
+        }
+      ],
+      "stats": [
+        {
+          "tid": 8,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 8
+        }
+      ]
+    },
+    {
+      "tid": 9,
+      "cid": 1,
+      "did": 3,
+      "region": "Houston",
+      "name": "Apollos",
+      "abbrev": "HOU",
+      "imgURL": "/img/logos/HOU.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 9,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8781410088146864,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 9
+        }
+      ],
+      "stats": [
+        {
+          "tid": 9,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 9
+        }
+      ]
+    },
+    {
+      "tid": 10,
+      "cid": 1,
+      "did": 5,
+      "region": "Las Vegas",
+      "name": "Blue Chips",
+      "abbrev": "LV",
+      "imgURL": "/img/logos/LV.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 10,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.42440059348296955,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 10
+        }
+      ],
+      "stats": [
+        {
+          "tid": 10,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 10
+        }
+      ]
+    },
+    {
+      "tid": 11,
+      "cid": 1,
+      "did": 5,
+      "region": "Los Angeles",
+      "name": "Earthquakes",
+      "abbrev": "LA",
+      "imgURL": "/img/logos/LA.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 11,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8562508613650612,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 11
+        }
+      ],
+      "stats": [
+        {
+          "tid": 11,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 11
+        }
+      ]
+    },
+    {
+      "tid": 12,
+      "cid": 1,
+      "did": 3,
+      "region": "Mexico City",
+      "name": "Aztecs",
+      "abbrev": "MXC",
+      "imgURL": "/img/logos/MXC.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 12,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.771206248078524,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 12
+        }
+      ],
+      "stats": [
+        {
+          "tid": 12,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 12
+        }
+      ]
+    },
+    {
+      "tid": 13,
+      "cid": 0,
+      "did": 2,
+      "region": "Miami",
+      "name": "Cyclones",
+      "abbrev": "MIA",
+      "imgURL": "/img/logos/MIA.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 13,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.37514298678564084,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 13
+        }
+      ],
+      "stats": [
+        {
+          "tid": 13,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 13
+        }
+      ]
+    },
+    {
+      "tid": 14,
+      "cid": 1,
+      "did": 4,
+      "region": "Minneapolis",
+      "name": "Blizzards",
+      "abbrev": "MIN",
+      "imgURL": "/img/logos/MIN.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 14,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9365603235044269,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 14
+        }
+      ],
+      "stats": [
+        {
+          "tid": 14,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 14
+        }
+      ]
+    },
+    {
+      "tid": 15,
+      "cid": 0,
+      "did": 0,
+      "region": "Montreal",
+      "name": "Mounties",
+      "abbrev": "MON",
+      "imgURL": "/img/logos/MON.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 15,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.2739651564128509,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 15
+        }
+      ],
+      "stats": [
+        {
+          "tid": 15,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 15
+        }
+      ]
+    },
+    {
+      "tid": 16,
+      "cid": 0,
+      "did": 0,
+      "region": "New York",
+      "name": "Bankers",
+      "abbrev": "NYC",
+      "imgURL": "/img/logos/NYC.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 16,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.4172175065467163,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 16
+        }
+      ],
+      "stats": [
+        {
+          "tid": 16,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 16
+        }
+      ]
+    },
+    {
+      "tid": 17,
+      "cid": 0,
+      "did": 0,
+      "region": "Philadelphia",
+      "name": "Cheesesteaks",
+      "abbrev": "PHI",
+      "imgURL": "/img/logos/PHI.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 17,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.5274357364738727,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 17
+        }
+      ],
+      "stats": [
+        {
+          "tid": 17,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 17
+        }
+      ]
+    },
+    {
+      "tid": 18,
+      "cid": 1,
+      "did": 3,
+      "region": "Phoenix",
+      "name": "Vultures",
+      "abbrev": "PHO",
+      "imgURL": "/img/logos/PHO.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 18,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8096039555798586,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 18
+        }
+      ],
+      "stats": [
+        {
+          "tid": 18,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 18
+        }
+      ]
+    },
+    {
+      "tid": 19,
+      "cid": 0,
+      "did": 1,
+      "region": "Pittsburgh",
+      "name": "Rivers",
+      "abbrev": "PIT",
+      "imgURL": "/img/logos/PIT.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 19,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.5707503635406943,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 19
+        }
+      ],
+      "stats": [
+        {
+          "tid": 19,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 19
+        }
+      ]
+    },
+    {
+      "tid": 20,
+      "cid": 1,
+      "did": 4,
+      "region": "Portland",
+      "name": "Roses",
+      "abbrev": "POR",
+      "imgURL": "/img/logos/POR.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 20,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.4993536593094039,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 20
+        }
+      ],
+      "stats": [
+        {
+          "tid": 20,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 20
+        }
+      ]
+    },
+    {
+      "tid": 21,
+      "cid": 1,
+      "did": 5,
+      "region": "Sacramento",
+      "name": "Gold Rush",
+      "abbrev": "SAC",
+      "imgURL": "/img/logos/SAC.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 21,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9117695077736749,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 21
+        }
+      ],
+      "stats": [
+        {
+          "tid": 21,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 21
+        }
+      ]
+    },
+    {
+      "tid": 22,
+      "cid": 1,
+      "did": 5,
+      "region": "San Diego",
+      "name": "Pandas",
+      "abbrev": "SD",
+      "imgURL": "/img/logos/SD.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 22,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.933087306773444,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 22
+        }
+      ],
+      "stats": [
+        {
+          "tid": 22,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 22
+        }
+      ]
+    },
+    {
+      "tid": 23,
+      "cid": 1,
+      "did": 5,
+      "region": "San Francisco",
+      "name": "Capitalists",
+      "abbrev": "SF",
+      "imgURL": "/img/logos/SF.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 23,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9528156643544292,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 23
+        }
+      ],
+      "stats": [
+        {
+          "tid": 23,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 23
+        }
+      ]
+    },
+    {
+      "tid": 24,
+      "cid": 1,
+      "did": 4,
+      "region": "Seattle",
+      "name": "Symphony",
+      "abbrev": "SEA",
+      "imgURL": "/img/logos/SEA.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 24,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.528479274366457,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 24
+        }
+      ],
+      "stats": [
+        {
+          "tid": 24,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 24
+        }
+      ]
+    },
+    {
+      "tid": 25,
+      "cid": 1,
+      "did": 3,
+      "region": "St. Louis",
+      "name": "Spirits",
+      "abbrev": "STL",
+      "imgURL": "/img/logos/STL.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 25,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.20340590013956694,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 25
+        }
+      ],
+      "stats": [
+        {
+          "tid": 25,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 25
+        }
+      ]
+    },
+    {
+      "tid": 26,
+      "cid": 0,
+      "did": 2,
+      "region": "Tampa",
+      "name": "Turtles",
+      "abbrev": "TPA",
+      "imgURL": "/img/logos/TPA.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 26,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.14733880476002081,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 26
+        }
+      ],
+      "stats": [
+        {
+          "tid": 26,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 26
+        }
+      ]
+    },
+    {
+      "tid": 27,
+      "cid": 0,
+      "did": 0,
+      "region": "Toronto",
+      "name": "Beavers",
+      "abbrev": "TOR",
+      "imgURL": "/img/logos/TOR.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 27,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.48546331480641225,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 27
+        }
+      ],
+      "stats": [
+        {
+          "tid": 27,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 27
+        }
+      ]
+    },
+    {
+      "tid": 28,
+      "cid": 1,
+      "did": 4,
+      "region": "Vancouver",
+      "name": "Whalers",
+      "abbrev": "VAN",
+      "imgURL": "/img/logos/VAN.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 28,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.4789185320495182,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 28
+        }
+      ],
+      "stats": [
+        {
+          "tid": 28,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 28
+        }
+      ]
+    },
+    {
+      "tid": 29,
+      "cid": 0,
+      "did": 2,
+      "region": "Washington",
+      "name": "Monuments",
+      "abbrev": "WAS",
+      "imgURL": "/img/logos/WAS.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 29,
+          "season": 2001,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.11214266732356726,
+          "pop": 20,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 29
+        }
+      ],
+      "stats": [
+        {
+          "tid": 29,
+          "season": 2001,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 29
+        }
+      ]
+    }
+  ],
+  "gameAttributes": [
+    {
+      "key": "aiTrades",
+      "value": true
+    },
+    {
+      "key": "autoDeleteOldBoxScores",
+      "value": true
+    },
+    {
+      "key": "brotherRate",
+      "value": 0.02
+    },
+    {
+      "key": "confs",
+      "value": [
+        {
+          "cid": 0,
+          "name": "Eastern Conference"
+        },
+        {
+          "cid": 1,
+          "name": "Western Conference"
+        }
+      ]
+    },
+    {
+      "key": "daysLeft",
+      "value": 0
+    },
+    {
+      "key": "difficulty",
+      "value": 0
+    },
+    {
+      "key": "disableInjuries",
+      "value": false
+    },
+    {
+      "key": "divs",
+      "value": [
+        {
+          "did": 0,
+          "cid": 0,
+          "name": "Atlantic"
+        },
+        {
+          "did": 1,
+          "cid": 0,
+          "name": "Central"
+        },
+        {
+          "did": 2,
+          "cid": 0,
+          "name": "Southeast"
+        },
+        {
+          "did": 3,
+          "cid": 1,
+          "name": "Southwest"
+        },
+        {
+          "did": 4,
+          "cid": 1,
+          "name": "Northwest"
+        },
+        {
+          "did": 5,
+          "cid": 1,
+          "name": "Pacific"
+        }
+      ]
+    },
+    {
+      "key": "easyDifficultyInPast",
+      "value": false
+    },
+    {
+      "key": "gameOver",
+      "value": false
+    },
+    {
+      "key": "godMode",
+      "value": false
+    },
+    {
+      "key": "godModeInPast",
+      "value": false
+    },
+    {
+      "key": "gracePeriodEnd",
+      "value": 2003
+    },
+    {
+      "key": "injuryRate",
+      "value": 0.000125
+    },
+    {
+      "key": "leagueName",
+      "value": "League 1"
+    },
+    {
+      "key": "luxuryPayroll",
+      "value": 130000
+    },
+    {
+      "key": "luxuryTax",
+      "value": 1.5
+    },
+    {
+      "key": "maxContract",
+      "value": 30000
+    },
+    {
+      "key": "maxRosterSize",
+      "value": 18
+    },
+    {
+      "key": "minContract",
+      "value": 750
+    },
+    {
+      "key": "minPayroll",
+      "value": 60000
+    },
+    {
+      "key": "minRosterSize",
+      "value": 10
+    },
+    {
+      "key": "nextPhase",
+      "value": null
+    },
+    {
+      "key": "numGames",
+      "value": 82
+    },
+    {
+      "key": "numPlayoffRounds",
+      "value": 4
+    },
+    {
+      "key": "numTeams",
+      "value": 30
+    },
+    {
+      "key": "ownerMood",
+      "value": {
+        "wins": 0,
+        "playoffs": 0,
+        "money": 0
+      }
+    },
+    {
+      "key": "phase",
+      "value": 0
+    },
+    {
+      "key": "quarterLength",
+      "value": 12
+    },
+    {
+      "key": "salaryCap",
+      "value": 120000
+    },
+	{
+      "key": "tragicDeathRate",
+      "value": 0.0002
+    },
+    {
+      "key": "season",
+      "value": 2001
+    },
+    {
+      "key": "showFirstOwnerMessage",
+      "value": true
+    },
+    {
+      "key": "sonRate",
+      "value": 0.02
+    },
+    {
+      "key": "startingSeason",
+      "value": 2001
+    },
+    {
+      "key": "stopOnInjury",
+      "value": false
+    },
+    {
+      "key": "stopOnInjuryGames",
+      "value": 20
+    },
+    {
+      "key": "teamAbbrevsCache",
+      "value": [
+        "ATL",
+        "BAL",
+        "BOS",
+        "CHI",
+        "CIN",
+        "CLE",
+        "DAL",
+        "DEN",
+        "DET",
+        "HOU",
+        "LV",
+        "LA",
+        "MXC",
+        "MIA",
+        "MIN",
+        "MON",
+        "NYC",
+        "PHI",
+        "PHO",
+        "PIT",
+        "POR",
+        "SAC",
+        "SD",
+        "SF",
+        "SEA",
+        "STL",
+        "TPA",
+        "TOR",
+        "VAN",
+        "WAS"
+      ]
+    },
+    {
+      "key": "teamNamesCache",
+      "value": [
+        "Gold Club",
+        "Crabs",
+        "Massacre",
+        "Whirlwinds",
+        "Riots",
+        "Curses",
+        "Snipers",
+        "High",
+        "Muscle",
+        "Apollos",
+        "Blue Chips",
+        "Earthquakes",
+        "Aztecs",
+        "Cyclones",
+        "Blizzards",
+        "Mounties",
+        "Bankers",
+        "Cheesesteaks",
+        "Vultures",
+        "Rivers",
+        "Roses",
+        "Gold Rush",
+        "Pandas",
+        "Capitalists",
+        "Symphony",
+        "Spirits",
+        "Turtles",
+        "Beavers",
+        "Whalers",
+        "Monuments"
+      ]
+    },
+    {
+      "key": "teamRegionsCache",
+      "value": [
+        "Atlanta",
+        "Baltimore",
+        "Boston",
+        "Chicago",
+        "Cincinnati",
+        "Cleveland",
+        "Dallas",
+        "Denver",
+        "Detroit",
+        "Houston",
+        "Las Vegas",
+        "Los Angeles",
+        "Mexico City",
+        "Miami",
+        "Minneapolis",
+        "Montreal",
+        "New York",
+        "Philadelphia",
+        "Phoenix",
+        "Pittsburgh",
+        "Portland",
+        "Sacramento",
+        "San Diego",
+        "San Francisco",
+        "Seattle",
+        "St. Louis",
+        "Tampa",
+        "Toronto",
+        "Vancouver",
+        "Washington"
+      ]
+    }
+  ]
+}
